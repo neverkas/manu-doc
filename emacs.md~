@@ -1,0 +1,17 @@
+C+X C+S (Guardar)
+M+X dired (Listar directorio)
+M+X dired C+X C+F (listar directorio->crear archivo)
+
+ACCIONES
+C+W (Cortar)
+C+Y (Pegar)
+C+W (Copiar)
+
+M+X (Abre la terminal)
+
+C+G (Cancelar acciones)
+
+M+X dired
+    D (Agregar a la lista de acciones. Ej. Borrar, Modificar)
+    X (Ejecutar la accion)
+    
